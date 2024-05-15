@@ -53,4 +53,3 @@ The app has the following screens and features:
 ## Links
 
 - Repo Link: [GitHub](https://github.com/secret-point/nomads)
-- Author: [Vinicius Ferreira](https://www.linkedin.com/in/vini-f-43b6062aa)
